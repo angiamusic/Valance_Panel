@@ -2,7 +2,7 @@
 
 Noun
 
-\ ˈva-lən(t)s  , ˈvā-  \
+\ ˈva-lən(t)s \
 
 1: a drapery hung along the edge of a bed, table, altar, canopy, or shelf
 
