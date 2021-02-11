@@ -1,5 +1,13 @@
 # Valance_Panel
 
+valance noun
+va·​lance | \ ˈva-lən(t)s  , ˈvā-  \
+
+1: a drapery hung along the edge of a bed, table, altar, canopy, or shelf
+2: a short drapery or wood or metal frame used as a decorative heading to conceal the top of curtains and fixture.
+
+
+
 Custom panel for Mutable Instruments Frames
 
 Silkscreen design by Aditya Ghosh and Bethany Almeida.
